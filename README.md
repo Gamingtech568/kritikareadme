@@ -37,7 +37,9 @@
 </h3>
 
 
-<img alt="Coding" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
+<!-- Snake Game Repo View --> 
+<div align="center"> <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
