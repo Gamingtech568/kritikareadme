@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=kritika&fontSize=50&&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=2ED573&width=1000&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Kritika+; GGSIPU-+%F0%9F%91%8B%2C+Guru+Gobind+Singh+Indraprastha University;)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Kritika</h1>
 
