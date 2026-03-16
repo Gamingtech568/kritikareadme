@@ -32,7 +32,14 @@
 # 💫 About Me:
 🛠 I'm currently working on  <br>Creative graphic design projects that bring ideas to life with visual impact.  <br><br>🧑‍🤝‍🧑 I'm looking to collaborate on  <br>UI/UX design and innovative digital experiences that make technology more user-friendly.  <br><br>🤝 I'm looking for help with  <br>Exploring advanced concepts in data science to strengthen my analytical skills.  <br><br>🌱 I'm currently learning  <br>Data Science and UI/UX design as part of my studies at IPU Delhi Technical Campus.  <br><br>💬 Ask me about  <br>Graphic design, visual storytelling, and how to blend creativity with technology.  <br><br>⚡ Fun fact  <br>I’m naturally funny and love making people laugh while working on serious projects!  
 
+<h3 align="center">
+  Profile 3D Contributions 🔰
+</h3>
 
+
+<img alt="Coding" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
+
+---
 
 
 ## 🌐 Socials:
