@@ -1,16 +1,14 @@
-<div style="background-color:#f4f4f4;padding:20px;">
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20I'm%20Kritika&fontAlign=center&fontColor=ffffff&color=ff7eb9,ff65a3"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20I'm%20Kritika&fontAlign=center&fontColor=ffffff&color=6a11cb,2575fc"/>
 </p>
 
-<h1 align="center" style="color:#ff65a3; font-weight:bold; font-size:2.2rem; text-shadow: 1px 1px 2px #aaa;">
-🎨 Graphic Designer | UI/UX Enthusiast | Data Science Learner @IPU Delhi Technical Campus
+<h1 align="center" style="color:#2575fc; font-weight:bold; font-size:2.2rem; text-shadow: 1px 1px 2px #aaa;">
+🎨 Graphic Designer | UI/UX Enthusiast | Data Science Learner
 </h1>
 
 <p align="center" style="color:#444">
   👋 Hi there! I'm Kritika, passionate about blending creativity with technology.  
-  I love designing user-friendly interfaces and exploring the world of data science to make digital experiences smarter and more impactful.
+  I love designing user-friendly interfaces and exploring data science to make digital experiences smarter and more impactful.
 </p>
 
 <p align="center" style="color:#444; font-style:italic;">
