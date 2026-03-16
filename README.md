@@ -1,5 +1,3 @@
-# 💫 About Me:
-🛠 I'm currently working on  <br>Creative graphic design projects that bring ideas to life with visual impact.  <br><br>🧑‍🤝‍🧑 I'm looking to collaborate on  <br>UI/UX design and innovative digital experiences that make technology more user-friendly.  <br><br>🤝 I'm looking for help with  <br>Exploring advanced concepts in data science to strengthen my analytical skills.  <br><br>🌱 I'm currently learning  <br>Data Science and UI/UX design as part of my studies at IPU Delhi Technical Campus.  <br><br>💬 Ask me about  <br>Graphic design, visual storytelling, and how to blend creativity with technology.  <br><br>⚡ Fun fact  <br>I’m naturally funny and love making people laugh while working on serious projects!  
 <h1 align="center">Hi 👋, I'm kritika</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -17,6 +15,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kritikatech123&show_icons=true&locale=en" alt="kritikatech123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kritikatech123&" alt="kritikatech123" /></p>
+# 💫 About Me:
+🛠 I'm currently working on  <br>Creative graphic design projects that bring ideas to life with visual impact.  <br><br>🧑‍🤝‍🧑 I'm looking to collaborate on  <br>UI/UX design and innovative digital experiences that make technology more user-friendly.  <br><br>🤝 I'm looking for help with  <br>Exploring advanced concepts in data science to strengthen my analytical skills.  <br><br>🌱 I'm currently learning  <br>Data Science and UI/UX design as part of my studies at IPU Delhi Technical Campus.  <br><br>💬 Ask me about  <br>Graphic design, visual storytelling, and how to blend creativity with technology.  <br><br>⚡ Fun fact  <br>I’m naturally funny and love making people laugh while working on serious projects!  
+
 
 
 
