@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm kritika</h1>
+<h1 align="center">Hi 👋, I'm Kritika</h1>
 
 
 <h1 align="center" style="color:#2575fc; font-weight:bold; font-size:2.2rem; text-shadow: 1px 1px 2px #aaa;">
