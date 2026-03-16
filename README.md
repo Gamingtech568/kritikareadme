@@ -1,5 +1,23 @@
-<h1 align="center">Hi 👋, I'm kritika</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div style="background-color:#f4f4f4;padding:20px;">
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20I'm%20Kritika&fontAlign=center&fontColor=ffffff&color=ff7eb9,ff65a3"/>
+</p>
+
+<h1 align="center" style="color:#ff65a3; font-weight:bold; font-size:2.2rem; text-shadow: 1px 1px 2px #aaa;">
+🎨 Graphic Designer | UI/UX Enthusiast | Data Science Learner @IPU Delhi Technical Campus
+</h1>
+
+<p align="center" style="color:#444">
+  👋 Hi there! I'm Kritika, passionate about blending creativity with technology.  
+  I love designing user-friendly interfaces and exploring the world of data science to make digital experiences smarter and more impactful.
+</p>
+
+<p align="center" style="color:#444; font-style:italic;">
+  ⚡ Fun fact: I’m naturally funny and enjoy bringing smiles while working on serious projects!
+</p>
+
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kritikatech123&label=Profile%20views&color=0e75b6&style=flat" alt="kritikatech123" /> </p>
 
