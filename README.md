@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=kritika&fontSize=50&&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=48&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=1200&height=120&lines=%F0%9F%94%A5+Graphic+Designer+%F0%9F%94%A5;>+_+Kritika Tech123;Full-Stack+Alchemist+%E2%9A%A1+Data+Scientist;Summoning+digital+chaos+since+day+one...;Hackathon+Warrior+%E2%9A%94+Daily+Committer+%F0%9F%90%8D" alt="Matrix Typing" />
 
 <h1 align="center">Hi 👋, I'm Kritika</h1>
 
