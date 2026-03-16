@@ -42,9 +42,9 @@
 # 📊 GitHub Stats:
 ![Kritika's GitHub Stats](https://readme-stats-github.pages.dev/api?username=KritikaTech123) <br>
 
-![](https://github-readme-stats.vercel.app/api?username=KritikaTech123&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=KritikaTech123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KritikaTech123&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=KritikaTech123) <br>
+)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KritikaTech123&theme=radical&no-frame=false&no-bg=false&margin-w=4)
