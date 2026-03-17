@@ -38,11 +38,6 @@
 <h3 align="center">
   Profile 3D Contributions 🔰
 </h3>
-
-
-
-<div align="center"> ![Pac-Man animation](https://github.com/Gamingtech568/pacman-contribution-graph/raw/output/github-contribution-grid-pacman.svg)
-</div>
 <img src="https://pacman.abozanona.me?username=Gamingtech568" />
 
 ---
