@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=kritika&fontSize=50&&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00DBDE&height=280&section=header&text=Kritika&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Graphic%20Designer%20%7C%203rd%20Year%20CSE&descAlignY=55&descSize=20"/>
 </p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=1200&height=120&lines=Hello+World;Welcome+to+GitHub;Enjoy+Coding" alt="Matrix Typing" />
 
