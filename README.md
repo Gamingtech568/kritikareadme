@@ -41,7 +41,7 @@
 
 
 <!-- Snake Game Repo View --> 
-<div align="center"> <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<div align="center"> ![Pac-Man animation](https://github.com/Gamingtech568/pacman-contribution-graph/raw/output/github-contribution-grid-pacman.svg)
 </div>
 
 ---
