@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=kritika&fontSize=50&&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=2ED573&width=1000&lines=-+-+-+-;+-+-+-+-;+-+-+-+-)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=2ED573&width=1000&lines=-+-+-+-;+-+-+-+-;+-+-+-+-)]
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=48&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=1200&height=120&lines=🔥+Graphic+Designer+🔥;Kritika+Tech123;Code+Conjurer+⚡+Data+Sculptor;Engineering+order+from+digital+storms...;Hackathon+Warrior+⚔+Daily+Committer+🐍" alt="Matrix Typing" />
 
 <h1 align="center">Hi 👋, I'm Kritika</h1>
