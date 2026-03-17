@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=kritika&fontSize=50&&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=1200&height=120&lines=-+-+-+-+-+-+-+-+-;+-+-+-+-+-+-+-+-+-;+-+-+-+-+-+-+-+-" alt="Matrix Typing" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=1200&height=120&lines=Hello+World;Welcome+to+GitHub;Enjoy+Coding" alt="Matrix Typing" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=48&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=1200&height=120&lines=🔥+Graphic+Designer+🔥;Kritika+Tech123;Code+Conjurer+⚡+Data+Sculptor;Engineering+order+from+digital+storms...;Hackathon+Warrior+⚔+Daily+Committer+🐍" alt="Matrix Typing" />
