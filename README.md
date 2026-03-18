@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00DBDE&height=280&section=header&text=Kritika&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Graphic%20Designer%20%7C%203rd%20Year%20CSE&descAlignY=55&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00DBDE&height=280&section=header&text=Kritika&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=3rd%20Year%20CSE&descAlignY=55&descSize=20"/>
 </p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=1200&height=120&lines=Hello+World;Welcome+to+GitHub;Enjoy+Coding" alt="Matrix Typing" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=48&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=1200&height=120&lines=🔥+Graphic+Designer+🔥;Kritika+Tech123;Code+Conjurer+⚡+Data+Sculptor;Engineering+order+from+digital+storms...;Hackathon+Warrior+⚔+Daily+Committer+🐍" alt="Matrix Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=48&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=1200&height=120&lines=🔥+Data+Analyst+🔥;Kritika+Tech123;Code+Conjurer+⚡+Data+Sculptor;Engineering+order+from+digital+storms...;Hackathon+Warrior+⚔+Daily+Committer+🐍" alt="Matrix Typing" />
 
 <h1 align="center">Hi 👋, I'm Kritika</h1>
 
 <h1 align="center" style="color:#2575fc; font-weight:bold; font-size:2.2rem; text-shadow: 1px 1px 2px #aaa;">
-🎨 Graphic Designer | UI/UX Enthusiast | Data Science Learner
+🎨 Data Analyst| UI/UX Enthusiast | Data Science Learner
 </h1>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQleVJZrQMme6DL4k7pj1f4d7zPhN7ILy49Iw">
 <p align="center" style="color:#444">
