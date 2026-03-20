@@ -1,7 +1,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00DBDE&height=280&section=header&text=Kritika&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%7C%203rd%20Year%20CSE&descAlignY=55&descSize=20"/>
 </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=1200&height=120&lines=Hello+World;Welcome+to+GitHub;Enjoy+Coding" alt="Matrix Typing" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=48&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=1200&height=120&lines=🔥+Data+Analyst+🔥;Kritika+Tech123;Code+Conjurer+⚡+Data+Sculptor;Engineering+order+from+digital+storms...;Hackathon+Warrior+⚔+Daily+Committer+🐍" alt="Matrix Typing" />
 
