@@ -8,9 +8,10 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=48&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=1200&height=120&lines=🔥+Data+Analyst+🔥;Kritika+Tech123;Code+Conjurer+⚡+Data+Sculptor;Engineering+order+from+digital+storms...;Hackathon+Warrior+⚔+Daily+Committer+🐍" alt="Matrix Typing" />
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 <h1 align="center">Hi 👋, I'm Kritika</h1>
 
 <h1 align="center" style="color:#2575fc; font-weight:bold; font-size:2.2rem; text-shadow: 1px 1px 2px #aaa;">
