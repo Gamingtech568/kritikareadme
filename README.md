@@ -17,7 +17,7 @@
 <h1 align="center" style="color:#2575fc; font-weight:bold; font-size:2.2rem; text-shadow: 1px 1px 2px #aaa;">
 🎨 Data Analyst| UI/UX Enthusiast | Data Science Learner
 </h1>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQleVJZrQMme6DL4k7pj1f4d7zPhN7ILy49Iw">
+<img align="right" alt="coding" width="400" src="https://lottiefiles.com/free-animation/girl-on-computer-with-idea-vKx1wtZe5l">
 <p align="center" style="color:#444">
   👋 Hi there! I'm Kritika, passionate about blending creativity with technology.  
   I love designing user-friendly interfaces and exploring data science to make digital experiences smarter and more impactful.
