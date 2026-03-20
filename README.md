@@ -39,7 +39,9 @@
   Profile 3D Contributions 🔰
 </h3>
 <img src="https://pacman.abozanona.me?username=Gamingtech568" />
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 ---
 
 
