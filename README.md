@@ -57,6 +57,9 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=KritikaTech123&theme=dark&hide_border=false)<br/>
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=KritikaTech123) <br>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=KritikaTech123&theme=vue&radius=10" alt="KritikaTech123's Activity Graph" />
+</p>
 
 
 ## 🏆 GitHub Trophies
